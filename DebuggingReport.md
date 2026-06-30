@@ -113,13 +113,6 @@ Book Issued Successfully.
 ```
 
 but the book status remained **Available**.
-
-**Screenshot 2 – Wrong Output**
-
-```
-(Add Screenshot Here)
-```
-
 ---
 
 ### Step 3 – Fix the Bug
